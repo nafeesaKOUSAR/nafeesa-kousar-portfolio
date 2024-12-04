@@ -1,0 +1,82 @@
+{
+    "person": {
+        "role": "Web Developer"
+    },
+    "contact": {
+        "title": "Contact with {firstName}",
+        "description": "Feel free to reach out to me for collaborations, questions, or just to connect!",
+        "button": "Get in Touch"
+    },
+    "home": {
+        "label": "Home",
+        "title": "{name}'s Portfolio",
+        "description": "Portfolio website showcasing my work as a {role}",
+        "headline": "Web Developer and Problem Solver",
+        "subline": "I'm {person.firstName}, a Laravel web developer passionate about building efficient and scalable web\n        applications.<br/>Beyond developing applications, I actively explore emerging technologies and transform innovative ideas into impactful solutions.\n"
+    },
+    "about": {
+        "label": "About",
+        "title": "About me",
+        "description": "Meet {name}, {role} from {location}",
+        "intro": {
+            "title": "Introduction",
+            "description": "Passionate and driven web developer with a solid foundation in computer science and programming principles. A recent graduate now honing my skills in Laravel development, I bring hands-on experience in creating dynamic, user-friendly web applications. With expertise in both front-end and back-end development, I am committed to continuous learning and staying at the forefront of emerging technologies, aiming to deliver impactful digital solutions and grow in the ever-evolving tech industry."
+        },
+        "work": {
+            "title": "Work Experience",
+            "experiences": {
+                "AI Pinnacle Private Limited, Rawalpindi": {
+                    "timeframe": "July 15, 2024 – Present",
+                    "role": "Junior Web Developer",
+                    "achievements": "Responsible for both front-end and backend development, coding, and maintaining web applications.\n                       Collaborated with the development team to ensure timely project delivery.\n                        Assisted in troubleshooting and debugging issues to improve application performance."
+
+                },
+                "AI Pinnacle Private Limited, Rawalpindi (Internship in Laravel)": {
+                    "timeframe": "May 2024 – June 2024",
+                    "role": "Web Development Intern",
+                    "achievements": "Developed and maintained web applications with a focus on both front-end and back-end development using Laravel.\n Worked closely with the development team to ensure project deliverables met client specifications and deadlines."
+                }
+            }
+        },
+        "studies": {
+            "title": "Studies",
+            "institutions": {
+                "Air University": {
+                    "description": "BS in Computer Science (2020 - 2024)"
+                },
+                "Fazaia Inter College, Nur Khan, Rawalpindi": {
+                    "description": "FSC (ICS) (2019 - 2020), Federal Board."
+                }
+            }
+        },
+        "technical": {
+            "title": "Technical skills",
+            "skills": {
+                "Laravel": {
+                    "description": "Proficient in Laravel for building robust and scalable web applications, with expertise in backend development and database management."
+                },
+                "HTML/CSS": {
+                    "description": "Proficient in HTML5 and CSS3 for structuring and styling responsive web pages with a focus on accessibility and performance."
+                }
+            }
+        }
+    },
+    "blog": {
+        "label": "Blog",
+        "title": "Writing about design and tech...",
+        "description": "Read what {name} has been up to recently"
+    },
+    "work": {
+        "label": "Work",
+        "title": "My projects",
+        "description": "Design and dev projects by {name}"
+    },
+    "gallery": {
+        "label": "Gallery",
+        "title": "My photo gallery",
+        "description": "A photo collection by {name}"
+    },
+    "projectCard": {
+        "label": "Read Case Study"
+    }
+}
